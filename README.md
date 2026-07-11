@@ -1,4 +1,4 @@
-<div align="center">
+\<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C6FF&height=200&section=header&text=Hi,%20I'm%20Jatin%20Awasthi&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40"/>
 
@@ -89,9 +89,6 @@ Full-featured Learning Management System built with Next.js and TypeScript, SSR,
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JatinAwasthi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinAwasthi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
 
 <img src="https://streak-stats.demolab.com/?user=JatinAwasthi&theme=dark&hide_border=true&background=0D1117" />
 
