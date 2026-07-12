@@ -90,7 +90,7 @@ Full-featured Learning Management System built with Next.js and TypeScript, SSR,
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=JatinAwasthi&theme=dark&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JatinAwasthi&theme=dark&hide_border=true&background=0D1117" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JatinAwasthi&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C6FF&line=00C6FF&point=FFFFFF" />
 
